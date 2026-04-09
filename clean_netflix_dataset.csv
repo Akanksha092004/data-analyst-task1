@@ -1,0 +1,101 @@
+title,type,country,date_added,release_year,rating,genre
+series e,movie,usa,2021-02-15,2019,r,action
+movie b,tv show,uk,2021-02-15,2021,r,comedy
+show c,movie,uk,,2019,pg,action
+film d,tv show,india,2021-02-15,2021,r,thriller
+show c,movie,india,,2020,pg,drama
+film d,movie,india,,2018,pg,comedy
+film d,tv show,india,2021-02-15,2021,tv-ma,action
+movie a,movie,india,,2020,pg,thriller
+movie b,tv show,usa,,2020,pg,action
+movie b,tv show,uk,,2018,r,drama
+series e,movie,uk,,2018,tv-ma,action
+movie b,movie,india,,2021,tv-ma,action
+show c,tv show,uk,,2019,pg,comedy
+movie b,movie,india,,2018,tv-ma,thriller
+show c,movie,india,,2018,r,thriller
+series e,movie,usa,,2018,tv-ma,thriller
+film d,movie,india,,2019,tv-ma,drama
+show c,tv show,india,2021-02-15,2018,tv-ma,thriller
+series e,tv show,india,2021-02-15,2018,tv-ma,action
+series e,tv show,india,2021-02-15,2021,pg,thriller
+film d,tv show,india,,2020,r,drama
+movie a,movie,india,,2021,pg,comedy
+film d,tv show,india,2021-02-15,2021,r,thriller
+film d,tv show,india,,2019,pg,action
+movie b,tv show,uk,,2020,pg,action
+movie a,tv show,uk,,2020,r,action
+show c,movie,india,,2020,tv-ma,thriller
+series e,movie,india,,2021,tv-ma,thriller
+movie a,movie,india,2021-02-15,2018,r,action
+movie b,movie,usa,,2021,pg,thriller
+show c,tv show,india,,2021,r,drama
+movie a,tv show,usa,,2020,r,thriller
+movie a,tv show,india,,2018,r,drama
+film d,tv show,uk,,2019,pg,drama
+film d,movie,india,,2018,pg,thriller
+movie b,movie,india,,2018,tv-ma,comedy
+movie a,tv show,india,2021-02-15,2019,pg,drama
+show c,movie,india,,2019,r,drama
+movie a,movie,india,,2018,tv-ma,comedy
+show c,movie,india,,2021,pg,comedy
+show c,movie,india,2021-02-15,2018,tv-ma,drama
+movie a,tv show,india,,2019,tv-ma,thriller
+show c,movie,usa,,2021,r,comedy
+movie a,tv show,india,,2018,r,drama
+movie a,movie,uk,,2019,tv-ma,action
+film d,movie,usa,,2021,pg,thriller
+show c,movie,uk,2021-02-15,2018,r,action
+movie a,tv show,uk,,2020,pg,thriller
+film d,movie,usa,,2019,pg,thriller
+movie b,movie,india,,2018,tv-ma,drama
+movie b,movie,uk,,2020,pg,comedy
+film d,tv show,india,,2020,pg,comedy
+show c,movie,india,,2020,pg,comedy
+film d,tv show,usa,2021-02-15,2018,r,thriller
+movie a,movie,usa,,2019,r,thriller
+film d,tv show,uk,,2018,pg,drama
+movie b,tv show,india,,2019,r,action
+film d,tv show,uk,2021-02-15,2021,pg,action
+movie b,movie,uk,2021-02-15,2020,pg,comedy
+show c,tv show,india,,2020,pg,comedy
+movie a,movie,uk,,2018,tv-ma,drama
+movie a,movie,india,,2021,pg,action
+movie a,tv show,uk,,2018,pg,action
+movie a,tv show,india,,2018,tv-ma,thriller
+movie b,movie,usa,,2018,r,comedy
+series e,tv show,usa,,2021,r,drama
+movie b,movie,india,,2018,r,action
+film d,movie,usa,2021-02-15,2021,pg,thriller
+movie a,tv show,uk,2021-02-15,2021,tv-ma,thriller
+movie a,movie,india,,2020,r,comedy
+series e,tv show,uk,2021-02-15,2018,pg,thriller
+movie b,movie,uk,,2019,r,action
+movie a,tv show,india,,2021,tv-ma,drama
+film d,movie,india,2021-02-15,2020,r,drama
+show c,tv show,india,,2018,pg,comedy
+movie a,tv show,uk,,2021,r,comedy
+series e,tv show,usa,2021-02-15,2019,pg,thriller
+movie a,movie,india,2021-02-15,2021,r,thriller
+film d,movie,india,,2021,pg,comedy
+show c,movie,india,2021-02-15,2019,pg,action
+show c,movie,usa,,2019,tv-ma,action
+series e,tv show,usa,,2019,tv-ma,drama
+movie a,movie,uk,2021-02-15,2021,r,comedy
+series e,movie,india,,2021,r,action
+show c,tv show,uk,,2018,pg,comedy
+film d,tv show,india,,2020,pg,action
+movie a,tv show,india,,2021,tv-ma,thriller
+movie b,movie,india,,2020,tv-ma,comedy
+film d,tv show,usa,,2018,pg,drama
+film d,tv show,usa,2021-02-15,2019,pg,thriller
+film d,tv show,uk,,2018,pg,action
+film d,tv show,india,,2020,r,comedy
+movie a,tv show,india,,2018,pg,thriller
+show c,movie,uk,,2021,pg,comedy
+show c,movie,india,,2021,pg,comedy
+series e,tv show,uk,,2019,r,drama
+movie a,tv show,india,2021-02-15,2020,tv-ma,drama
+series e,tv show,uk,,2019,r,comedy
+film d,tv show,uk,2021-02-15,2021,pg,action
+film d,movie,india,2021-02-15,2021,r,comedy

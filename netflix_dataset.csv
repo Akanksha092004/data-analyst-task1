@@ -1,0 +1,301 @@
+title,type,country,date_added,release_year,rating,genre
+Series E,Movie,USA,2021-02-15,2019.0,R,Action
+Show C ,Movie,,"January 1, 2020",2020.0,TV-MA,Action
+Show C,tv show,UK,15 March 2022,2021.0,pg,
+Film D ,tv show,india ,15 March 2022,,,
+Film D,Movie,,2021-02-15,2021.0,,Drama
+Movie B,TV Show,UK,2021-02-15,2021.0,R,Comedy
+Film D,tv show,india ,"January 1, 2020",2019.0,,Thriller
+Movie B,Movie,india ,15 March 2022,,TV-MA,
+Movie B ,TV Show,india ,2021-02-15,,TV-MA,
+Movie B ,TV Show,USA,,2021.0,R,
+Movie A,TV Show,,2021-02-15,2018.0,,Action
+Movie B,movie,UK,2021-02-15,,PG,Drama
+Show C,Movie,UK,15 March 2022,2019.0,PG,Action
+Show C,tv show,UK,,2019.0,,Comedy
+Movie A,TV Show,UK,"January 1, 2020",2019.0,,Action
+Show C,movie,india ,"January 1, 2020",,PG,Thriller
+Film D,TV Show,India,2021-02-15,2021.0,R,Thriller
+Show C ,Movie,india ,15 March 2022,2020.0,pg,Drama
+Movie B,Movie,UK,,2021.0,R,Thriller
+Film D,movie,India,"January 1, 2020",2018.0,PG,Comedy
+Show C ,tv show,india ,2021-02-15,,pg,Thriller
+Series E,tv show,USA,,2019.0,R,Thriller
+Movie A,movie,India,,2019.0,PG,Comedy
+Film D,tv show,UK,2021-02-15,2020.0,PG,
+Film D,tv show,India,2021-02-15,2021.0,TV-MA,Action
+Movie A,movie,india ,,2021.0,pg,Thriller
+Movie B ,Movie,UK,2021-02-15,,PG,Drama
+Movie A,movie,India,"January 1, 2020",2020.0,pg,Thriller
+Movie B ,TV Show,USA,"January 1, 2020",2020.0,PG,Action
+Show C ,tv show,,2021-02-15,2021.0,PG,Thriller
+Movie A,tv show,India,15 March 2022,,TV-MA,Thriller
+Film D,Movie,,2021-02-15,2020.0,,Comedy
+Movie B ,TV Show,UK,15 March 2022,2018.0,R,Drama
+Show C ,tv show,,"January 1, 2020",,,Comedy
+Show C ,Movie,India,"January 1, 2020",,,Action
+Series E ,Movie,UK,"January 1, 2020",2018.0,TV-MA,Action
+Movie A,Movie,UK,2021-02-15,,R,Comedy
+Movie B,movie,India,15 March 2022,2021.0,TV-MA,Action
+Show C,TV Show,UK,15 March 2022,2019.0,PG,Comedy
+Series E,Movie,,15 March 2022,2020.0,TV-MA,Action
+Movie B,Movie,india ,15 March 2022,2018.0,TV-MA,Thriller
+Show C,Movie,India,15 March 2022,2018.0,R,Thriller
+Film D,Movie,India,2021-02-15,2018.0,TV-MA,
+Series E,movie,USA,"January 1, 2020",2018.0,TV-MA,Thriller
+Series E,movie,India,15 March 2022,2021.0,pg,
+Show C,tv show,india ,,2020.0,pg,
+Movie A,tv show,india ,,2020.0,pg,Thriller
+Film D,movie,india ,"January 1, 2020",2019.0,TV-MA,Drama
+Series E,tv show,,2021-02-15,2018.0,PG,Thriller
+Film D,Movie,India,,2019.0,pg,Comedy
+Movie A ,TV Show,UK,"January 1, 2020",2019.0,TV-MA,
+Series E,tv show,UK,2021-02-15,,,
+Show C ,tv show,india ,2021-02-15,2018.0,TV-MA,Thriller
+Movie B,TV Show,india ,2021-02-15,2020.0,R,
+Series E,Movie,USA,15 March 2022,2019.0,,Comedy
+Series E,movie,,2021-02-15,2021.0,PG,
+Film D,TV Show,UK,,2021.0,R,Action
+Series E,TV Show,India,2021-02-15,2018.0,TV-MA,Action
+Series E,tv show,USA,,2020.0,TV-MA,Thriller
+Show C ,TV Show,,15 March 2022,2018.0,pg,
+Movie B ,tv show,USA,,2021.0,,Thriller
+Series E,TV Show,,15 March 2022,2020.0,TV-MA,Action
+Movie A ,tv show,,15 March 2022,2019.0,R,Drama
+Series E,tv show,India,2021-02-15,2021.0,pg,Thriller
+Series E,Movie,UK,,2019.0,PG,Thriller
+Show C,movie,india ,"January 1, 2020",2021.0,pg,
+Movie B,movie,USA,,2018.0,pg,
+Series E ,movie,India,,2019.0,,Drama
+Movie A,tv show,,"January 1, 2020",2018.0,pg,Drama
+Series E ,movie,UK,,,,Action
+Series E,Movie,UK,2021-02-15,2019.0,,Comedy
+Show C,TV Show,,"January 1, 2020",2020.0,R,Drama
+Movie A ,TV Show,UK,2021-02-15,2019.0,,Drama
+Movie B,movie,,2021-02-15,2021.0,R,
+Movie B ,Movie,,,,R,Thriller
+Film D ,TV Show,india ,15 March 2022,2020.0,R,Drama
+Movie B,TV Show,,"January 1, 2020",,pg,Action
+Film D,movie,USA,15 March 2022,2021.0,,Comedy
+Movie A,movie,India,15 March 2022,2021.0,pg,Comedy
+Movie A,tv show,,15 March 2022,2019.0,PG,Drama
+Film D ,movie,USA,15 March 2022,,PG,Drama
+Series E,movie,UK,15 March 2022,,pg,
+Movie A,tv show,USA,,2019.0,PG,Action
+Film D ,TV Show,india ,2021-02-15,2021.0,R,Thriller
+Series E,movie,India,15 March 2022,2019.0,TV-MA,
+Film D,tv show,India,"January 1, 2020",2019.0,pg,Action
+Movie B,movie,india ,"January 1, 2020",2020.0,PG,
+Movie B,TV Show,UK,15 March 2022,2020.0,PG,Action
+Movie A,TV Show,UK,15 March 2022,2020.0,R,Action
+Movie B ,Movie,india ,15 March 2022,,TV-MA,Comedy
+Movie A ,tv show,USA,,2018.0,pg,
+Show C,movie,India,15 March 2022,2020.0,TV-MA,Thriller
+Series E ,Movie,India,15 March 2022,2021.0,TV-MA,Thriller
+Film D,movie,,,2019.0,R,
+Movie A,Movie,India,2021-02-15,2018.0,R,Action
+Movie A,TV Show,India,15 March 2022,2021.0,,Drama
+Series E,movie,,2021-02-15,2019.0,R,Action
+Movie A,Movie,,,2020.0,PG,Drama
+Series E,movie,,,2020.0,TV-MA,Thriller
+Movie B,TV Show,,2021-02-15,2018.0,,Thriller
+Series E,movie,,2021-02-15,2018.0,PG,Comedy
+Movie A ,tv show,UK,"January 1, 2020",,R,Comedy
+Show C,TV Show,India,,,R,Drama
+Series E,tv show,india ,"January 1, 2020",2018.0,pg,
+Series E,TV Show,,"January 1, 2020",2021.0,PG,
+Movie A,movie,UK,2021-02-15,,pg,
+Movie B ,movie,USA,15 March 2022,2021.0,PG,Thriller
+Show C ,TV Show,india ,"January 1, 2020",2021.0,R,Drama
+Show C,TV Show,UK,,2019.0,,Action
+Movie A,movie,UK,15 March 2022,2019.0,,Thriller
+Series E,tv show,,,2020.0,TV-MA,Action
+Show C,movie,India,,2018.0,PG,Thriller
+Show C,tv show,UK,15 March 2022,2018.0,,Comedy
+Movie A,Movie,india ,,2021.0,TV-MA,Thriller
+Movie A,movie,india ,2021-02-15,,,
+Movie A,tv show,USA,15 March 2022,2020.0,R,Thriller
+Movie A,TV Show,india ,"January 1, 2020",2018.0,R,Drama
+Series E,Movie,India,,2018.0,,
+Film D ,tv show,UK,15 March 2022,2019.0,PG,Drama
+Movie B ,movie,,"January 1, 2020",2018.0,PG,Thriller
+Movie B,movie,USA,,2020.0,R,Thriller
+Show C,movie,USA,15 March 2022,,TV-MA,Thriller
+Film D,Movie,india ,15 March 2022,2018.0,pg,Thriller
+Movie B ,movie,india ,"January 1, 2020",2018.0,TV-MA,Comedy
+Series E ,movie,USA,"January 1, 2020",,TV-MA,Action
+Series E ,movie,India,,2021.0,,Drama
+Movie B ,Movie,India,2021-02-15,,R,Thriller
+Movie A,tv show,India,2021-02-15,2019.0,pg,Drama
+Series E,movie,USA,,2020.0,,Thriller
+Series E,Movie,india ,2021-02-15,2018.0,,
+Show C,tv show,India,2021-02-15,,PG,Action
+Film D,movie,,"January 1, 2020",2018.0,TV-MA,Thriller
+Film D,tv show,,15 March 2022,2021.0,R,Thriller
+Movie A,movie,USA,15 March 2022,,TV-MA,
+Show C ,Movie,india ,"January 1, 2020",2019.0,R,Drama
+Movie A ,movie,India,15 March 2022,2018.0,TV-MA,Comedy
+Show C,movie,india ,15 March 2022,2021.0,PG,Comedy
+Series E,TV Show,,,2020.0,,Action
+Show C ,TV Show,India,2021-02-15,2021.0,,
+Show C ,Movie,,,2020.0,,Thriller
+Show C,movie,india ,2021-02-15,2018.0,TV-MA,Drama
+Movie A,TV Show,india ,"January 1, 2020",2019.0,TV-MA,Thriller
+Show C ,Movie,USA,"January 1, 2020",2021.0,R,Comedy
+Movie A ,tv show,India,"January 1, 2020",2018.0,R,Drama
+Film D,Movie,UK,2021-02-15,2019.0,PG,
+Movie A,movie,UK,"January 1, 2020",2019.0,TV-MA,Action
+Series E ,movie,india ,"January 1, 2020",2020.0,,Action
+Series E,Movie,,,2018.0,pg,Action
+Show C ,Movie,UK,"January 1, 2020",,PG,Action
+Film D,movie,USA,"January 1, 2020",2021.0,pg,Thriller
+Show C,movie,UK,2021-02-15,2018.0,R,Action
+Movie A,movie,USA,2021-02-15,2018.0,,Action
+Movie B,tv show,India,"January 1, 2020",2021.0,R,
+Movie A,tv show,India,15 March 2022,2019.0,TV-MA,
+Series E,tv show,,15 March 2022,2021.0,pg,Comedy
+Series E,movie,,,,,Drama
+Movie A,tv show,UK,"January 1, 2020",2020.0,pg,Thriller
+Film D,Movie,USA,15 March 2022,2019.0,pg,Thriller
+Show C,TV Show,India,15 March 2022,,PG,Thriller
+Movie B,Movie,india ,"January 1, 2020",2018.0,TV-MA,Drama
+Series E ,movie,USA,2021-02-15,2019.0,R,
+Series E,tv show,USA,,,TV-MA,
+Series E,Movie,UK,2021-02-15,2018.0,,Comedy
+Movie B ,movie,UK,15 March 2022,2020.0,pg,Comedy
+Series E,TV Show,USA,,2019.0,R,Thriller
+Film D ,tv show,India,15 March 2022,2020.0,PG,Comedy
+Show C ,tv show,India,,2018.0,PG,Comedy
+Show C ,tv show,India,15 March 2022,2021.0,,Action
+Movie B,tv show,UK,"January 1, 2020",,TV-MA,Thriller
+Series E,Movie,india ,"January 1, 2020",,pg,Comedy
+Show C,Movie,India,"January 1, 2020",2020.0,PG,Comedy
+Film D,TV Show,india ,"January 1, 2020",,pg,
+Show C ,Movie,,,2020.0,PG,Thriller
+Film D,TV Show,USA,2021-02-15,2018.0,R,Thriller
+Movie B,TV Show,USA,2021-02-15,2021.0,TV-MA,
+Series E ,movie,,"January 1, 2020",2019.0,TV-MA,
+Movie A,Movie,USA,"January 1, 2020",2019.0,R,Thriller
+Film D,TV Show,USA,2021-02-15,2021.0,pg,
+Movie A,Movie,,"January 1, 2020",2021.0,PG,Comedy
+Movie A ,movie,India,2021-02-15,2018.0,pg,
+Film D,TV Show,UK,15 March 2022,2018.0,PG,Drama
+Series E,movie,india ,2021-02-15,2021.0,pg,
+Show C ,tv show,USA,,,TV-MA,Comedy
+Movie B,tv show,india ,"January 1, 2020",2019.0,R,Action
+Show C,movie,india ,,,R,Action
+Film D,tv show,UK,2021-02-15,2021.0,PG,Action
+Movie B ,movie,UK,2021-02-15,2020.0,PG,Comedy
+Movie B ,movie,India,,2018.0,,Drama
+Movie B,TV Show,UK,,2020.0,pg,Comedy
+Series E,TV Show,,2021-02-15,,pg,
+Movie A ,tv show,UK,2021-02-15,,,Drama
+Show C,TV Show,india ,15 March 2022,2020.0,PG,Comedy
+Movie A,movie,UK,15 March 2022,2018.0,TV-MA,Drama
+Movie B,movie,USA,,2020.0,TV-MA,Comedy
+Movie B,Movie,India,15 March 2022,2021.0,PG,
+Movie A ,Movie,India,"January 1, 2020",2021.0,pg,Action
+Movie B ,Movie,India,"January 1, 2020",2020.0,,Action
+Show C,Movie,India,,2020.0,TV-MA,Thriller
+Show C ,TV Show,USA,2021-02-15,2019.0,,Thriller
+Movie B,Movie,UK,2021-02-15,2021.0,,Action
+Series E,Movie,,"January 1, 2020",2021.0,R,
+Movie A,tv show,UK,"January 1, 2020",2018.0,pg,Action
+Movie A,tv show,USA,,2020.0,TV-MA,Thriller
+Show C,TV Show,India,,2020.0,TV-MA,Comedy
+Show C ,tv show,UK,2021-02-15,2021.0,pg,
+Movie A ,tv show,india ,15 March 2022,2018.0,TV-MA,Thriller
+Movie B,Movie,india ,"January 1, 2020",2020.0,,Action
+Movie B,movie,USA,15 March 2022,2018.0,R,Comedy
+Series E,tv show,USA,"January 1, 2020",2021.0,R,Drama
+Series E ,TV Show,India,,2019.0,TV-MA,Action
+Movie B,Movie,India,15 March 2022,2018.0,R,Action
+Film D,movie,USA,2021-02-15,2021.0,PG,Thriller
+Show C,TV Show,,,,,Comedy
+Movie A,Movie,USA,,2018.0,PG,Action
+Movie A,TV Show,UK,2021-02-15,2021.0,TV-MA,Thriller
+Film D ,TV Show,,2021-02-15,2018.0,pg,Action
+Movie A,Movie,india ,15 March 2022,,R,
+Show C ,Movie,,,2021.0,pg,Drama
+Movie A ,Movie,india ,"January 1, 2020",2020.0,R,Comedy
+Series E,tv show,UK,2021-02-15,2018.0,PG,Thriller
+Movie B ,movie,UK,"January 1, 2020",2019.0,R,Action
+Movie A,tv show,,2021-02-15,2019.0,PG,Comedy
+Movie A,Movie,India,,,R,Drama
+Movie B,Movie,India,2021-02-15,,PG,Action
+Show C ,Movie,UK,,,R,Action
+Movie A ,Movie,,15 March 2022,,pg,
+Movie B,movie,,2021-02-15,2020.0,pg,Thriller
+Movie A,Movie,USA,,2019.0,PG,Thriller
+Movie A,TV Show,india ,15 March 2022,2021.0,TV-MA,Drama
+Movie A ,movie,,,,R,Action
+Movie A,TV Show,USA,15 March 2022,,,Comedy
+Series E,TV Show,,"January 1, 2020",2020.0,R,Thriller
+Film D,tv show,UK,,2019.0,PG,Thriller
+Show C,TV Show,,"January 1, 2020",2020.0,R,
+Series E ,TV Show,india ,,2020.0,TV-MA,Thriller
+Show C,movie,UK,2021-02-15,,R,
+Film D ,movie,india ,2021-02-15,2020.0,R,Drama
+Movie A,TV Show,,2021-02-15,2018.0,TV-MA,Action
+Show C,tv show,India,15 March 2022,2018.0,pg,Comedy
+Movie A,TV Show,UK,"January 1, 2020",2021.0,R,Comedy
+Series E ,Movie,,"January 1, 2020",2020.0,,
+Series E,tv show,USA,2021-02-15,2019.0,PG,Thriller
+Show C ,TV Show,UK,,2019.0,PG,Comedy
+Movie A,Movie,india ,2021-02-15,2021.0,R,Thriller
+Film D,Movie,India,"January 1, 2020",2021.0,pg,Comedy
+Movie B,tv show,,,,R,Action
+Movie B,TV Show,India,,2018.0,TV-MA,Drama
+Show C ,Movie,india ,2021-02-15,2019.0,PG,Action
+Show C,movie,USA,"January 1, 2020",2019.0,TV-MA,Action
+Film D,Movie,,,2020.0,pg,
+Series E,tv show,USA,"January 1, 2020",2019.0,TV-MA,Drama
+Movie A,Movie,UK,2021-02-15,2021.0,R,Comedy
+Series E,Movie,india ,2021-02-15,2018.0,,Thriller
+Film D ,movie,USA,15 March 2022,,PG,Thriller
+Movie A,Movie,,15 March 2022,2020.0,pg,Action
+Series E,Movie,India,"January 1, 2020",2021.0,R,Action
+Movie B,Movie,USA,2021-02-15,,TV-MA,Action
+Show C,tv show,UK,15 March 2022,2018.0,PG,Comedy
+Movie B,Movie,UK,2021-02-15,2020.0,,Drama
+Movie A,movie,USA,2021-02-15,2019.0,,
+Show C,tv show,india ,15 March 2022,,TV-MA,Drama
+Show C,Movie,India,,2021.0,pg,Thriller
+Series E,movie,UK,15 March 2022,,,
+Film D ,tv show,india ,15 March 2022,2020.0,pg,Action
+Movie A,tv show,india ,15 March 2022,2021.0,TV-MA,Thriller
+Movie B,movie,india ,"January 1, 2020",2020.0,TV-MA,Comedy
+Movie B,movie,India,"January 1, 2020",2019.0,,Comedy
+Series E ,tv show,india ,,2018.0,R,
+Movie A ,movie,UK,15 March 2022,2018.0,,Comedy
+Series E ,TV Show,USA,"January 1, 2020",,,Action
+Show C ,movie,india ,2021-02-15,2021.0,,Thriller
+Film D,TV Show,USA,15 March 2022,2018.0,PG,Drama
+Film D,TV Show,USA,2021-02-15,2019.0,pg,Thriller
+Show C ,tv show,USA,"January 1, 2020",2019.0,,Comedy
+Movie B ,Movie,UK,15 March 2022,2021.0,pg,
+Film D,TV Show,UK,15 March 2022,2018.0,pg,Action
+Series E,movie,india ,,2019.0,pg,
+Series E ,tv show,india ,2021-02-15,2021.0,,Thriller
+Show C,tv show,india ,,2018.0,PG,Action
+Movie B ,movie,,"January 1, 2020",2021.0,pg,
+Series E ,TV Show,,,,pg,Thriller
+Series E,movie,UK,"January 1, 2020",2021.0,,Drama
+Film D ,tv show,,2021-02-15,2019.0,R,Action
+Film D,TV Show,india ,15 March 2022,2020.0,R,Comedy
+Show C,Movie,india ,,2021.0,PG,Thriller
+Show C ,Movie,,2021-02-15,2021.0,R,Action
+Movie A,TV Show,India,"January 1, 2020",2018.0,PG,Thriller
+Movie A,TV Show,USA,2021-02-15,2021.0,,
+Series E,movie,,15 March 2022,2020.0,PG,
+Show C,Movie,UK,15 March 2022,2021.0,PG,Comedy
+Show C,Movie,India,15 March 2022,2021.0,pg,Comedy
+Film D,tv show,,,,,Thriller
+Series E,TV Show,UK,"January 1, 2020",2019.0,R,Drama
+Movie A,tv show,India,2021-02-15,2020.0,TV-MA,Drama
+Movie A,tv show,UK,15 March 2022,,TV-MA,Thriller
+Series E,tv show,UK,"January 1, 2020",2019.0,R,Comedy
+Film D,tv show,UK,2021-02-15,2021.0,pg,Action
+Series E ,movie,UK,"January 1, 2020",,TV-MA,Thriller
+Film D ,movie,India,2021-02-15,2021.0,R,Comedy
+Film D ,TV Show,India,2021-02-15,2020.0,R,
